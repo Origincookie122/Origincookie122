@@ -25,7 +25,17 @@ Databases: JSON / BSON / MySQL / SQL / PostgreSQL / MsSQL / Access 2 / Binary
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Origincookie122)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Origincookie122&show_icons=true&count_private=true)  
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Origincookie122&show_icons=true&theme=dark&count_private=true"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Origincookie122&show_icons=true&count_private=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Origincookie122&show_icons=true&count_private=true" />
+</picture>
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Origincookie122)  
 
