@@ -34,4 +34,5 @@ I'm Cookie from United States, I love to programming for fun and helping out com
 - Hex Binary
 - MongoDB
 
+[![Cookie Github Stats](https://github-readme-stats.vercel.app/api?username=Origincookie122)]
 
