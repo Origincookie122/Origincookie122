@@ -2,7 +2,7 @@
 
 I'm Cookie from United States, I love to programming for fun and helping out communites. 
 
-### Programming Languages
+### Programming Languages 💡
 - HTML5
 - CSS
 - PHP
@@ -21,7 +21,7 @@ I'm Cookie from United States, I love to programming for fun and helping out com
 - Unreal Engine 4 Blueprints
 - CryEngine Visual Scripting
 
-### Databases
+### Databases ⚡
 - JSON
 - BSON
 - MySQL
