@@ -9,7 +9,7 @@ Skills: HTML5 / CSS / PHP / Laravel PHP / JavaScript / React / VueJS / Angular /
 Databases: JSON / BSON / MySQL / SQL / PostgreSQL / MsSQL / Access 2 / Binary
 
 - 🔭 I’m currently working on Origin Bot 
-- 🌱 I’m currently learning Rust 
+- 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate on JavaScript/PHP Related Projects 
 - 💬 Ask me about JavaScript/PHP 
 - 📫 How to reach me: Discord: origincookie#2338 
