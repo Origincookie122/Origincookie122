@@ -12,7 +12,7 @@ Databases: JSON / BSON / MySQL / SQL / PostgreSQL / MsSQL / Access 2 / Binary
 - 🌱 I’m currently learning Java 
 - 👯 I’m looking to collaborate on JavaScript/PHP Related Projects 
 - 💬 Ask me about JavaScript/PHP 
-- 📫 How to reach me: Discord: origincookie#2338 
+- 📫 How to reach me: Discord: origincookie122#2338 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: 48 65 78 61 64 65 63 69 6D 61 6C 20 77 61 73 20 6F 72 69 67 69 6E 61 6C 6C 79 20 72 65 6C 65 61 73 65 64 20 69 6E 20 4A 61 6E 75 61 72 79 20 31 39 35 34 2E 
 
