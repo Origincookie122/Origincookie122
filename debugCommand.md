@@ -11,7 +11,7 @@ const Mention = new RegExp(`^<@!?${client.user.id}> `);
         const args = message.content.slice(prefix.length).trim().split(/ +/g);
         const command = args.shift().toLowerCase();
 ```
-
+(MAKE SURE TO REPLACE PREFIX WITH YOUR PREFIX VARIABLE OR STRING)
 Now if you have the client object, message object, and args array we can continue with the code for the command
 
 ```js
