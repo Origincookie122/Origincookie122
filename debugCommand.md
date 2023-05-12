@@ -62,7 +62,10 @@ But if we say a depth of 2 or !export d2 \<code\>
 ```js
 {
   cookie: {
-    foo: [object Object]
+    foo: {
+        bar: [object Object]
+    }
   }
 }
 ```
+Make sure to have a security system or permission system setup so that not all users can run this command
