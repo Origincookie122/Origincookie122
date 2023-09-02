@@ -39,4 +39,4 @@ Databases: JSON / BSON / MySQL / SQL / PostgreSQL / MsSQL / Access 2 / Binary
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Origincookie122)  
 
-![Profile views](https://gpvc.arturio.dev/Origincookie122)  
+![](https://komarev.com/ghpvc/?username=Origincookie122)
